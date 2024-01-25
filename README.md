@@ -37,7 +37,6 @@ Yearly Record Challenges.
 6) Address challenges related to uneven yearly records for countries.
 
 ## Results:
-
 1) 
 ![Total countries in the dataset: 147.
 ](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/total%20no%20country.png "Total and Distinct Target Countries")
@@ -67,12 +66,11 @@ Nigeria: -4%
 
 ## Challenges:
 Recognize the challenge of uneven yearly records; 2019 has the highest records for 99 out of 147 countries.
-Conclusion:
 
+## Conclusion:
 This analysis provides valuable insights into the representation of women in managerial positions globally. Challenges such as uneven yearly records and significant changes in some countries over the past decade highlight the dynamic nature of this field. Recommendations include continuous monitoring, in-depth country analyses, and efforts to improve data completeness.
 
-Recommendations:
-
+## Recommendations:
 Improve data completeness to ensure more uniformity in recording.
 Conduct in-depth analyses for countries experiencing significant changes.
 Incorporate additional variables for a comprehensive understanding.
