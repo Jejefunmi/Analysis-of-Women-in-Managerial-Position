@@ -17,33 +17,39 @@ The 'value' column, containing combined year and percentage values, was separate
 ## Analysis Objectives:
 The primary objectives of the analysis are as follows:
 
-1) Total and Distinct Target Countries:
+1) Total number of Target Countries:
 
-Determine the total number of countries in the dataset.
-Identify distinct target countries for analysis.
-2) Top Ten Countries with High Women in Managerial Posts:
+![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/total%20no%20country.png)
 
-Identify and rank the top ten countries with the highest percentage of women in managerial positions.
-3) Yearly Changes for Specific Countries (2013 to 2019):
+2) Countries with Significant Women in Managerial Posts:
 
-Examine changes in the percentage of women in managerial positions for the United States, United Kingdom, Australia, and Nigeria.
-4) Countries with Significant Women in Managerial Posts:
-
+![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%203.png)
 Identify countries with a significant percentage of women in managerial positions (above 60%).
-5) Trend Analysis for Countries with Value > 59:
 
-Analyze the trend of women in managerial positions over time for countries where the percentage of women is greater than 59.
-Average Percentage of Women in Managerial Positions:
+3) Percentage of women managers
 
-6) Calculate the average percentage of women in managerial positions across all years.
-Yearly Record Challenges:
+![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%202.png)
+ Highest number of managerial women each country ever recorded throughout the years
 
-7) Address challenges related to uneven yearly records for countries.
+
+4) Yearly Changes for Specific Countries (2013 to 2019):
+
+![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%205%20women%20in%20position.png)
+Examine changes in the percentage of women in managerial positions for the United States, United Kingdom, Australia, and Nigeria.
+
+5) Average Percentage of Women in Managerial Positions:
+
+![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%204.png)
+The average percentage of women in managerial positions across all years.
+Yearly Record Challenges.
+
+6) Address challenges related to uneven yearly records for countries.
 
 ## Results:
 
 1) Total and Distinct Target Countries:
 Total countries in the dataset: 147.
+
 2) Top Ten Countries with High Women in Managerial Posts:
 
 United States had the highest percentage in 2013, followed by the United Kingdom, Nigeria, and Australia. After 6 years, the United States, United Kingdom, and Australia saw slight increases, while Nigeria experienced a decrease.
