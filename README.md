@@ -30,14 +30,7 @@ Identify and rank the top ten countries with the highest percentage of women in 
 4) Yearly Changes for Specific Countries (2013 to 2019):
 Examine changes in the percentage of women in managerial positions for the United States, United Kingdom, Australia, and Nigeria.
 
-
 5) Average Percentage of Women in Managerial Positions:
-Calculate the average percentage of women in managerial positions across all years.
-Yearly Record Challenges:
-
-5) Average Percentage of Women in Managerial Positions:
-
-![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%204.png)
 The average percentage of women in managerial positions across all years.
 Yearly Record Challenges.
 
@@ -70,13 +63,14 @@ Analyzing trends for countries with values above 59%.
 ![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%205%20women%20in%20position.png)
 Examine changes in the percentage of women in managerial positions for the United States, United Kingdom, Australia, and Nigeria
 United States had the highest percentage in 2013, followed by the United Kingdom, Nigeria, and Australia. After 6 years, the United States, United Kingdom, and Australia saw slight increases, while Nigeria experienced a decrease.
- Yearly Changes (2013 to 2019):
+Yearly Changes (2013 to 2019):
 United States: +2%
 United Kingdom: +2.1%
 Australia: +1.7%
 Nigeria: -4%
  
 5) Average Percentage of Women in Managerial Positions:
+![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%205.png)
 Average Percentage of Women in Managerial Positions Over the Years was
 Calculate the average percentage of women in managerial positions.
 Yearly Record Challenges:
