@@ -38,29 +38,21 @@ Yearly Record Challenges.
 
 ## Results:
 
-1) Total and Distinct Target Countries:
+1) 
+![Total countries in the dataset: 147.
+](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/total%20no%20country.png "Total and Distinct Target Countries")
 
-![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/total%20no%20country.png)
-Total countries in the dataset: 147.
+2) 
+![Identify countries with a significant percentage of women in managerial positions above 60%.](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%203.png "Countries with Significant Women in Managerial Posts")
 
-2) Countries with Significant Women in Managerial Posts:
-
-![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%203.png)
-Identify countries with a significant percentage of women in managerial positions (above 60%).
-
-3) Percentage of women managers
-
-![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%202.png)
- Highest number of managerial women each country ever recorded throughout the years
+3) 
+![Highest number of managerial women each country ever recorded throughout the years](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%202.png "Percentage of women managers")
 
 Initially, six countries had a significant percentage of women in managerial positions (above 60%): Hungary, Jamaica, Jordan, Costa Rica, Barbados, Guatemala.
 Over the past 10 years, only Jordan, Costa Rica, and Barbados have maintained significant representation.
-Trend Analysis for Countries with Value > 59:
-Analyzing trends for countries with values above 59%.
+4) 
+![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%204.png "Yearly Changes for Specific Countries (2013 to 2019)")
 
-4) Yearly Changes for Specific Countries (2013 to 2019):
-
-![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%205%20women%20in%20position.png)
 Examine changes in the percentage of women in managerial positions for the United States, United Kingdom, Australia, and Nigeria
 United States had the highest percentage in 2013, followed by the United Kingdom, Nigeria, and Australia. After 6 years, the United States, United Kingdom, and Australia saw slight increases, while Nigeria experienced a decrease.
 Yearly Changes (2013 to 2019):
@@ -69,14 +61,14 @@ United Kingdom: +2.1%
 Australia: +1.7%
 Nigeria: -4%
  
-5) Average Percentage of Women in Managerial Positions:
-![](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%205.png)
-Average Percentage of Women in Managerial Positions Over the Years was
-Calculate the average percentage of women in managerial positions.
-Yearly Record Challenges:
+5) 
+![Retrieve the average percentage of women in managerial positions for top 10 countries](https://github.com/Jejefunmi/Analysis-of-Women-in-Managerial-Position/blob/main/chart/question%205.png "Average Percentage of Women in Managerial Positions")
 
+
+## Challenges:
 Recognize the challenge of uneven yearly records; 2019 has the highest records for 99 out of 147 countries.
 Conclusion:
+
 This analysis provides valuable insights into the representation of women in managerial positions globally. Challenges such as uneven yearly records and significant changes in some countries over the past decade highlight the dynamic nature of this field. Recommendations include continuous monitoring, in-depth country analyses, and efforts to improve data completeness.
 
 Recommendations:
